@@ -16,13 +16,7 @@ I'm a passionate developer who loves building things with the help of AI.
 ## 📊 GitHub Stats
 
 <div align="center">
-  
-![Saad's GitHub stats](https://github-readme-stats.vercel.app/api?username=Saadhusainn&show_icons=true&theme=radical&hide_border=true)
-
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Saadhusainn&theme=radical&hide_border=true)](https://git.io/streak-stats)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Saadhusainn&layout=compact&theme=radical&hide_border=true)
-
 </div>
 
 ## 🤝 Connect With Me
