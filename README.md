@@ -1,8 +1,8 @@
 ### 👨‍💻 About Me
 
 I'm a passionate developer who loves building things with the help of AI.
-
 ## 🔥 Current Projects
+
 
 - **[📚 SIJJEEN](https://github.com/Saadhusainn/saadhusainn.github.io)** — An Islamic digital library for exploring books, Hadith, Quran, Tafsir, and more
 - **🗃️ [SIJJEEN Book Database](https://github.com/sijjeen-books-database)** — Organization containing 100+ repos with thousands of Islamic books
@@ -16,7 +16,9 @@ I'm a passionate developer who loves building things with the help of AI.
 ## 📊 GitHub Stats
 
 <div align="center">
+
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Saadhusainn&theme=radical&hide_border=true)](https://git.io/streak-stats)
+
 </div>
 
 ## 🤝 Connect With Me
