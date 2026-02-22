@@ -5,7 +5,7 @@ I'm a passionate developer who loves building things with the help of AI.
 
 
 - **[📚 SIJJEEN](https://github.com/Saadhusainn/saadhusainn.github.io)** — An Islamic digital library for exploring books, Hadith, Quran, Tafsir, and more
-- **🗃️ [SIJJEEN Book Database](https://github.com/sijjeen-books-database)** — Organization containing 100+ repos with thousands of Islamic books
+- **🗃️ [Nayi Subah Organisation](https://github.com/NayiSubahOrganisation)** — Nayi Subah Foundation; A New Dawn of Hope & Service; Dedicated to serving humanity through education, healthcare, and community development.
 
 ## 💡 What Drives Me
 
