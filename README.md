@@ -18,7 +18,7 @@ I'm a passionate developer who loves building things with the help of AI.
 <div align="center">
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Saadhusainn&theme=radical&hide_border=true)](https://git.io/streak-stats)
-<img height="165em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=techjarves&show_icons=true&theme=github_dark&hide=issues" alt="GitHub Stats" />
+<img height="165em" src="https://github-readme-stats-sigma-five.vercel.app/api?userneame=Saadhusainn&show_icons=true&theme=github_dark&hide=issues" alt="GitHub Stats" />
 
 </div>
 
