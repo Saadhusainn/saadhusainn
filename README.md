@@ -5,12 +5,10 @@ I'm a passionate developer who loves building things with the help of AI.
 ## 🔥 Current Projects
 
 - **[📚 SIJJEEN](https://github.com/Saadhusainn/saadhusainn.github.io)** — A digital library based on Islamic Literature.
-- **[Radius Tools](https://github.com/Saadhusainn/RadiusTools)** - A WebApp containing file tools like cropping, converting, renaming, compressing images in bulk, and much more; which can be used by students or office workers saving their time and finding all the useful tools at once.
 
 ## 💡 What Drives Me
 
 - Passionate about **open source** and building tools that benefit the People of all fields
-- 🎯 **Goal:** Make SIJJEEN the largest Islamic digital library
 - ⚡ **Fun fact:** When I'm passionate about a project, I'll get it done anyhow despite the difficulties
 
 ## 📊 GitHub Stats
